@@ -19,4 +19,3 @@
 
 git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
 git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
-git clone https://github.com/garypang13/luci-app-bypass package/luci-app-bypass
